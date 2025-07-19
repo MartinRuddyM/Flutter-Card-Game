@@ -9,12 +9,12 @@ The UI is responsive, and the number of cards loaded per row and their size is d
 
 These responsiveness featrues apply mainly to the game screen but also to the buttons in the other screens.
 
+
+The app works well and meets all defined project evaluation criteria. It can be played [here](https://martinruddym.github.io/Flutter-Card-Game/).
+
 <img width="362" height="811" alt="image" src="https://github.com/user-attachments/assets/63efe0a4-2a0b-40ad-ad11-8e3e98de1f93" />
 
 <img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/b0ac380a-5d48-4559-ba57-98b116570e14" />
 
 <img width="364" height="800" alt="image" src="https://github.com/user-attachments/assets/df064933-8604-4e27-bc39-43666b7349a2" />
 
-
-
-The app works well and meets all defined project evaluation criteria. It can be played [here](https://martinruddym.github.io/Flutter-Card-Game/).
